@@ -3,9 +3,9 @@
     border-top-left-radius:4px
   }
 
-  .top-nav__main-menus>li:nth-child(1)>ul {
-    background:#333 /* Controls color for 'Torrents' nav option */
-  }
+.top-nav__main-menus>li:nth-child(1)>ul {
+background:#333 /* Controls color for 'Torrents' nav option */
+}
 
 .top-nav__main-menus>li:nth-child(2),
 .top-nav__main-menus>li:nth-child(2)>ul {
