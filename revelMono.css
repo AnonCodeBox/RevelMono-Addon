@@ -1,32 +1,32 @@
-.top-nav__main-menus>li:nth-child(1) {
-    background:#333;
+.top-nav__main-menus>li:nth-child(1) { 
+    background:#333; /* Controls color for 'Torrents' nav option */
     border-top-left-radius:4px
   }
 
   .top-nav__main-menus>li:nth-child(1)>ul {
-    background:#333
+    background:#333 /* Controls color for 'Torrents' nav option */
   }
 
 .top-nav__main-menus>li:nth-child(2),
 .top-nav__main-menus>li:nth-child(2)>ul {
-  background:#454545
+  background:#454545 /* Controls color for 'Community' nav option */
 }
 
 .top-nav__main-menus>li:nth-child(3),
 .top-nav__main-menus>li:nth-child(3)>ul {
-  background:#525252
+  background:#525252 /* Controls color for 'Support' nav option */
 }
 
 .top-nav__main-menus>li:nth-child(4),
 .top-nav__main-menus>li:nth-child(4)>ul {
-  background:#636363
+  background:#636363 /* Controls color for 'Other' nav option */
 }
 
 .top-nav__main-menus>li:nth-child(4)>ul {
-    background:#636363
+    background:#636363 /* Controls color for 'Other' nav option */
   }
 
 .top-nav__main-menus>li:nth-child(5),
 .top-nav__main-menus>li:nth-child(5)>ul {
-  background:#747474
+  background:#747474 /* Controls color for 'Donations' nav option */
 }
